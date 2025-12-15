@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "91843799229",
+    "project_id": "bargain-hunter-1fe11",
+    "storage_bucket": "bargain-hunter-1fe11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91843799229:android:bfb3bcf77b7618b5b1efd4",
+        "android_client_info": {
+          "package_name": "com.example.bargain_hunter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd16gVY1k9uYyyQhfeG2Xy_pHrAI_HtRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
